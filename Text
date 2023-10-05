@@ -1,3 +1,9 @@
 Hello
 cc ca va ?
 Ouais tkrl
+git status
+git pull
+git add .
+git commit -m ""
+git push
+git clone
